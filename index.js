@@ -1,7 +1,7 @@
 var smartcrop = require('smartcrop');
 var gm = require('gm');
-
 gm = gm.subClass({ imageMagick: true });
+var Promise = require('bluebird');
 
 var iop = {
   open: function(src) {

@@ -1,6 +1,6 @@
 {
   "name": "smartcrop-gm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "smartcrop adapter for gm / imagemagick",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "gm": "^1.22.0",
-    "smartcrop": "^1.1.1"
+    "smartcrop": "^1.1.1",
+    "bluebird": "^3.3.5"
   },
   "devDependencies": {
     "chai": "^3.5.0",
