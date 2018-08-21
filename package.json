@@ -9,7 +9,7 @@
   "author": "Jonas Wagner <jonas@29a.ch>",
   "license": "MIT",
   "dependencies": {
-    "bluebird": "^3.3.5"
+    "bluebird": "^3.3.5",
     "smartcrop": "^2.0.2",
     "gm": "^1.23.1"
   },
